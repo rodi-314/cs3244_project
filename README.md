@@ -1,5 +1,6 @@
 # CS3244 — Machine Learning Project
-This group project was completed as part of the CS3244 Machine Learning course taught at the National University of Singapore (NUS).
+This group project was completed as part of the CS3244 Machine Learning course taught at the National University of Singapore (NUS). The objective of this group project is to train and evaluate a machine learning model on a 
+substantial dataset.
 
 ## Project Title: Analysing Factors Affecting Credit Card Approval
 
@@ -49,31 +50,31 @@ ultimately more inclusive.
 
 ### General Approach
 
-1. Data Acquisition and Initial Inspection – Import the dataset and review its structure, 
+1. **Data Acquisition and Initial Inspection** – Import the dataset and review its structure, 
 including the features and instances. The definition of ‘good’/’bad’ clients is not given, 
 so there is a need for further analysis to self-define the labels; techniques such as vintage 
 analysis could be used to construct the label. 
-2. Data Cleaning – Handling missing values, addressing outliers, fixing data types, 
+2. **Data Cleaning** – Handling missing values, addressing outliers, fixing data types, 
 removing duplicates 
-3. Exploratory Data Analysis (EDA) – Visualise data distributions and examine 
+3. **Exploratory Data Analysis (EDA)** – Visualise data distributions and examine 
 relationships between variables using statistical plots and summary metrics, checking 
 for imbalances in data 
-4. Feature Engineering – Create, select, or transform variables to better capture the 
+4. **Feature Engineering** – Create, select, or transform variables to better capture the 
 underlying factors that influence credit card approval decisions, possibly use L1 Lasso 
 regularisation for feature selection 
-5. Data Splitting – Divide the dataset into training and testing sets (and a validation set 
+5. **Data Splitting** – Divide the dataset into training and testing sets (and a validation set 
 if necessary) to ensure robust model evaluation (e.g., randomly splitting the data into 
 30% test and 70% train) 
-6. Baseline Modelling: – Implement logistic regression as an initial, interpretable model 
+6. **Baseline Modelling** – Implement Logistic Regression as an initial, interpretable model 
 to establish a baseline for performance 
-7. Advanced Modelling Techniques – We will explore the machine learning models to 
+7. **Advanced Modelling Techniques** – We will explore the machine learning models to 
 enhance predictive accuracy: Linear Regression, Polynomial/Ridge Regression, 
-Random Forest, SVM, and K-means clustering. Ensemble modelling such as bagging 
+Random Forest, SVM, and K-means Clustering. Ensemble modelling such as bagging 
 and boosting will be conducted if necessary to decrease variance and bias respectively. 
-8. Model Evaluation – We will evaluate the models using mean squared error, mean 
+8. **Model Evaluation** – We will evaluate the models using mean squared error, mean 
 absolute error and R-squared values. Utilise cross-validation alongside evaluation 
 metrics such as accuracy, precision, recall, and F1-score to assess model performance. 
-9. Interpretation and Insights – Analyse feature importance and model outcomes to 
+9. **Interpretation and Insights** – Analyse feature importance and model outcomes to 
 identify the key factors affecting credit card approvals, ultimately informing both 
 financial institutions and individuals
 
