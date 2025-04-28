@@ -1,6 +1,6 @@
 # CS3244 — Machine Learning Project
 This group project was completed as part of the CS3244 Machine Learning course taught at the National University of Singapore (NUS). The objective of this group project is to train and evaluate a machine learning model on a 
-substantial dataset. For more details, please view the [project proposal](Proposal.pdf) and the [project presentation](Presentation.mp4). The [narration](Narration.pdf) is also provided.
+substantial dataset. For more details, please view the [project proposal](Proposal.pdf) and the [project presentation](Presentation.mp4). The [transcript](Narration.pdf) of the presentation is also provided.
 
 ## Project Title: Analysing Factors Affecting Credit Card Approval
 
