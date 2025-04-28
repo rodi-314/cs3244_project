@@ -4,7 +4,7 @@ substantial dataset. For more details, please view the [project proposal](Propos
 
 ## Project Title: Analysing Factors Affecting Credit Card Approval
 
-![image](https://github.com/user-attachments/assets/88a33111-4a11-499b-93e4-4bb13671029c)
+![image](https://github.com/user-attachments/assets/9cc4f1a9-bb33-433f-913e-4fc1efd8f47b)
 
 ### Dataset Chosen and Description
 
