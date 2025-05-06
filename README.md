@@ -86,6 +86,7 @@ To evaluate our project, we will assess both the overall success of our analysis
 performance of our machine learning models. Model performance will be measured using 
 standard metrics: mean absolute error (MAE), mean squared error (MSE), R-squared for 
 regression tasks, as these quantify prediction accuracy and explained variance, respectively.  
+
 Additionally, we will utilise cross-validation alongside evaluation metrics such as accuracy, 
 precision, recall, and F1-score to assess model performance. We will split the dataset into 
 training (70%) and testing (30%) sets to ensure unbiased evaluation. Additionally, we will 
